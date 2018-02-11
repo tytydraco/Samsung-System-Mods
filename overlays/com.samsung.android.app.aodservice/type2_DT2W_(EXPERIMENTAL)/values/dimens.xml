@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="aod_home_holder_height">1000000.0px</dimen>
+    <dimen name="aod_home_holder_width">1000000.0px</dimen>
+    <dimen name="aod_home_icon_size">0.0dip</dimen>
+</resources>

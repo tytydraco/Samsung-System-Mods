@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="common_contents_clock_time_text_size">0dip</dimen>
+    <dimen name="common_dual_time_view_text_size">0dip</dimen>
+    <dimen name="common_clock_digital_horizontal_two_line_hour_min_text_size">0dip</dimen>
+    <dimen name="common_clock_digital_vertical_time_text_size">0dip</dimen>
+    <dimen name="common_clock_digital_big_hour_minute_text_size">0dip</dimen>
+    <dimen name="common_clock_digital_big_hour_hour_text_size">0dip</dimen>
+    <dimen name="common_clock_digital_big_hour_keyguard_minute_text_size">0dip</dimen>
+</resources>

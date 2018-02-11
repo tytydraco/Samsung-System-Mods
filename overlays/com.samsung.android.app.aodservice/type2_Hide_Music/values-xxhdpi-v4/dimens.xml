@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="aod_music_info_divider_height">0dip</dimen>
+    <dimen name="aod_music_info_height">0dip</dimen>
+    <dimen name="aod_music_info_icon_margin_end">0dip</dimen>
+    <dimen name="aod_music_info_icon_size">0dip</dimen>
+    <dimen name="aod_music_info_padding_bottom">0dip</dimen>
+    <dimen name="aod_music_info_padding_top">0dip</dimen>
+    <dimen name="aod_music_info_title_text_max_width">0dip</dimen>
+    <dimen name="aod_music_info_title_text_size">0dip</dimen>
+    <dimen name="aod_music_info_width">0dip</dimen>
+</resources>

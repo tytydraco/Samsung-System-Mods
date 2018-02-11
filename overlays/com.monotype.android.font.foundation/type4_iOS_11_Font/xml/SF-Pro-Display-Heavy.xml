@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font displayname="SF-Pro-Display-Heavy">
+	<sans>
+		<file>
+			<filename>SF-Pro-Display-Heavy.ttf</filename>
+			<droidname>DroidSans.ttf</droidname>
+		</file>
+		<file>
+			<filename>SF-Pro-Display-Heavy.ttf</filename>
+			<droidname>DroidSans-Bold.ttf</droidname>
+		</file>
+	</sans>
+</font>

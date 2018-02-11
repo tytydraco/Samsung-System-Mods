@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.keyguard.EmergencyCarrierArea android:visibility="gone" android:gravity="center" android:layout_gravity="center_horizontal" android:orientation="vertical" android:layout_width="0dp" android:layout_height="0dp" android:layout_alignParentBottom="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:androidprv="http://schemas.android.com/apk/res-auto">
+    <com.android.keyguard.CarrierText android:textAppearance="?android:textAppearanceMedium" android:textSize="0dp" android:textColor="?android:textColorSecondary" android:ellipsize="marquee" android:id="@*com.android.systemui:id/carrier_text" android:visibility="gone" android:layout_width="0dp" android:layout_height="0dp" />
+    <include layout="@*com.android.systemui:layout/keyguard_face_dex_button" />
+    <include layout="@*com.android.systemui:layout/keyguard_iris_dex_button" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@*com.android.systemui:id/keyguard_emergency_button_area" android:paddingLeft="90000.0dip" android:paddingRight="0dp" android:layout_width="0dp" android:layout_height="0dp">
+        <com.android.keyguard.EmergencyButton android:ellipsize="end" android:id="@*com.android.systemui:id/emergency_call_button" android:background="@*com.android.systemui:drawable/ripple_effect_transparent_button_drawable" android:paddingLeft="90000dp" android:paddingRight="0dp" android:layout_width="0dp" android:layout_height="0dp" android:text="@null" android:maxLines="1" style="@*com.android.systemui:style/keyguard_button_style" />
+        <com.android.keyguard.KeyguardButton android:textAppearance="?android:textAppearanceMedium" android:ellipsize="end" android:id="@*com.android.systemui:id/forgot_password_button" android:background="@*com.android.systemui:drawable/ripple_effect_transparent_button_drawable" android:paddingLeft="90000dp" android:paddingRight="0dp" android:visibility="gone" android:layout_width="0dp" android:layout_height="0dp" android:maxLines="1" android:layout_marginStart="2.0dip" style="@*com.android.systemui:style/keyguard_button_style" />
+    </LinearLayout>
+</com.android.keyguard.EmergencyCarrierArea>

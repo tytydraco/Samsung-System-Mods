@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="onehand_bottom_margin">0dip</dimen>
+	<dimen name="onehand_side_margin">0dip</dimen>
+	<dimen name="onehand_bottom_navigationbar_margin">0dip</dimen>
+    <dimen name="onehand_side_menu_bottom_margin">0dip</dimen>
+	<dimen name="onehand_default_icon_size">0dip</dimen>
+</resources>

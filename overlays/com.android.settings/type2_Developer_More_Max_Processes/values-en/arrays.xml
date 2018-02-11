@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_process_limit_entries">
+        <item>Standard limit</item>
+        <item>No background processes</item>
+        <item>At most 1 process</item>
+        <item>At most 2 processes</item>
+        <item>At most 3 processes</item>
+        <item>At most 4 processes</item>
+        <item>At most 5 processes</item>
+        <item>At most 6 processes</item>
+        <item>At most 7 processes</item>
+        <item>At most 8 processes</item>
+        <item>At most 9 processes</item>
+        <item>At most 10 processes</item>
+        <item>At most 11 processes</item>
+        <item>At most 12 processes</item>
+        <item>At most 13 processes</item>
+        <item>At most 14 processes</item>
+        <item>At most 15 processes</item>
+        <item>At most 16 processes</item>
+        <item>At most 17 processes</item>
+        <item>At most 18 processes</item>
+        <item>At most 19 processes</item>
+        <item>At most 20 processes</item>
+    </string-array>
+    <string-array name="app_process_limit_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+</resources>

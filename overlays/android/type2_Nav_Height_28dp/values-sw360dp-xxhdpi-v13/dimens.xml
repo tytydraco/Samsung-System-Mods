@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="navigation_bar_height">28dp</dimen>
+    <dimen name="navigation_bar_height_landscape">28dp</dimen>
+    <dimen name="navigation_bar_width">28dp</dimen>
+</resources>

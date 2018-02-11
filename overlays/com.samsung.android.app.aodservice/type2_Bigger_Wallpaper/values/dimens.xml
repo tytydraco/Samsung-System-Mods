@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="clock_wallpaper_height">1000.0dip</dimen>
+    <dimen name="clock_wallpaper_width">1000.0dip</dimen>
+</resources>

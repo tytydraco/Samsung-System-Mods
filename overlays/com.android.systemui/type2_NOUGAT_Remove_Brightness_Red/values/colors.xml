@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="brightness_controller_seekbar_second_boundary_bg_color">@*com.android.systemui:color/tw_progress_color_control_normal</color>
+    <color name="brightness_controller_seekbar_second_boundary_fg_color">@*com.android.systemui:color/tw_progress_color_control_activated</color>
+</resources>
+	

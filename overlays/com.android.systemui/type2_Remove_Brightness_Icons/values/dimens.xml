@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="brightness_controller_icon_width">5dp</dimen>
+	<dimen name="brightness_controller_icon_height">0dp</dimen>
+	<dimen name="brightness_controller_padding_start">0dp</dimen>
+	<dimen name="brightness_controller_padding_end">0dp</dimen>
+</resources>
+	

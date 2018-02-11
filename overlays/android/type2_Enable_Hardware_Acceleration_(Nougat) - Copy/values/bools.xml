@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<bool name="config_enableCpuBoostForAppLaunch">true</bool>
+    <bool name="config_enableLaunchBoostv2">true</bool>
+	<bool name="config_enablePerfBoostForAnimation">true</bool>
+	<bool name="config_enableCpuBoostForOverScrollerFling">true</bool>
+    <bool name="config_enableCpuBoostForScroller">true</bool>
+	<bool name="config_enableCpuBoostForPanelViewFling">true</bool>
+</resources>

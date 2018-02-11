@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<integer name="config_wifi_supplicant_scan_interval">60000</integer>
+	<integer name="config_wifi_scan_interval_p2p_connected">240000</integer>
+    <integer name="config_wifi_framework_scan_interval">120000</integer>
+    <integer name="config_wifi_no_network_periodic_scan_interval">1200000</integer>
+    <integer name="config_wifi_disconnected_short_scan_interval">60000</integer>
+    <integer name="config_wifi_associated_short_scan_interval">80000</integer>
+	<integer name="config_wifi_framework_associated_full_scan_max_interval">1200000</integer>
+</resources>

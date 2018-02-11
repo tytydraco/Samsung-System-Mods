@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_navBarLayout">key(84:null),recent;home;back,menu_ime</string>
+    <string name="config_navBarRevLayout">key(84:null),back;home;recent,menu_ime</string>
+</resources>

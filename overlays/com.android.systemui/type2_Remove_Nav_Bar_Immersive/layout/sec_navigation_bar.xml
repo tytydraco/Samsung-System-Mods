@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.phone.SecNavigationBarView android:background="@*com.android.systemui:drawable/system_bar_background" android:layout_width="0dp" android:layout_height="0dp"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:systemui="http://schemas.android.com/apk/res-auto">
+    <com.android.systemui.statusbar.phone.NavigationBarInflaterView android:id="@*com.android.systemui:id/navigation_inflater" android:layout_width="0dp" android:layout_height="0dp" />
+</com.android.systemui.statusbar.phone.SecNavigationBarView>

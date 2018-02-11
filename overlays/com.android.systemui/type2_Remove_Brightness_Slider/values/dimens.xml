@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="brightness_controller_height">0.0dip</dimen>
+    <dimen name="brightness_controller_icon_width">0.0dip</dimen>
+    <dimen name="brightness_controller_icon_height">0.0dip</dimen>
+    <dimen name="brightness_controller_settings_icon_width">0.0dip</dimen>
+    <dimen name="brightness_controller_settings_icon_height">0.0dip</dimen>
+    <dimen name="brightness_controller_padding_start">0.0dip</dimen>
+    <dimen name="brightness_controller_padding_end">0.0dip</dimen>
+    <dimen name="brightness_controller_slider_padding_start">0.0dip</dimen>
+    <dimen name="brightness_controller_slider_padding_end">0.0dip</dimen>
+    <dimen name="brightness_controller_divider_start_magin">0.0dip</dimen>
+    <dimen name="brightness_controller_divider_end_magin">0.0dip</dimen>
+    <dimen name="qs_brightness_detail_slider_side_padding_start">0.0dip</dimen>
+    <dimen name="qs_brightness_detail_slider_side_padding_end">0.0dip</dimen>
+    <dimen name="qs_brightness_detail_side_padding_start">0.0dip</dimen>
+    <dimen name="qs_brightness_detail_side_padding_end">0.0dip</dimen>
+    <dimen name="qs_brightness_detail_slider_margin_bottom">0.0dip</dimen>
+    <dimen name="qs_panel_brightness_height">0.0dip</dimen>
+    <dimen name="brightness_controller_label_text_size">0.0dip</dimen>
+    <dimen name="qs_brightness_padding_top">0.0dip</dimen>
+    <dimen name="qs_brightness_dialog_slider_padding">0.0dip</dimen>
+    <dimen name="qs_bottom_area_height">0.0dip</dimen>
+    <dimen name="qs_summary_height">0.0dip</dimen>
+    <dimen name="qs_page_indicator_width">0.0dip</dimen>
+    <dimen name="qs_page_indicator_height">0.0dip</dimen>
+    <dimen name="qs_page_indicator_margin">0.0dip</dimen>
+    <dimen name="qs_page_indicator_layout_height">0.0dip</dimen>
+    <dimen name="qs_panel_padding">1.0dip</dimen>
+</resources>

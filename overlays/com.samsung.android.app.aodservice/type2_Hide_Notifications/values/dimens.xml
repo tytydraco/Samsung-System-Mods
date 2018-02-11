@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="aod_batt_battery_height">0dip</dimen>
+    <dimen name="aod_batt_battery_width">0dip</dimen>
+    <dimen name="aod_batt_height">0dip</dimen>
+    <dimen name="aod_batt_percent_text_size">0dip</dimen>
+    <dimen name="aod_batt_safe_check_icon_size">0dip</dimen>
+    <dimen name="aod_cal_batt_battery_height">0dip</dimen>
+    <dimen name="aod_cal_batt_battery_height_cover">0dip</dimen>
+    <dimen name="aod_cal_batt_battery_width">0dip</dimen>
+    <dimen name="aod_cal_batt_battery_width_cover">0dip</dimen>
+    <dimen name="aod_cal_batt_height">0dip</dimen>
+    <dimen name="aod_cal_batt_percent_text_size">0dip</dimen>
+    <dimen name="aod_split_cal_batt_percent_text_size">0dip</dimen>
+    <dimen name="aod_split_cal_batt_line_height">0dip</dimen>
+    <dimen name="aod_split_cal_batt_battery_height">0dip</dimen>
+    <dimen name="aod_split_cal_batt_battery_width">0dip</dimen>
+    <dimen name="aod_split_cal_batt_calendar_text_size">0dip</dimen>
+    <dimen name="aod_split_cal_batt_height">0dip</dimen>
+
+    <dimen name="aod_notification_height">0dip</dimen>
+    <dimen name="aod_notification_icon_height">0dip</dimen>
+    <dimen name="aod_notification_icon_height_cover">0dip</dimen>
+    <dimen name="aod_notification_icon_width">0dip</dimen>
+    <dimen name="aod_notification_icon_width_cover">0dip</dimen>
+    <dimen name="aod_notification_icon_stroke_size">0dip</dimen>
+    <dimen name="aod_notification_preview_icon_size">0dip</dimen>
+    <dimen name="aod_notification_text_size">0dip</dimen>
+</resources>

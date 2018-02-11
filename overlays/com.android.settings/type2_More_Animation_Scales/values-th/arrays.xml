@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animator_duration_scale_entries">
+        <item>ปิดภาพเคลื่อนไหว</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.1 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.2 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.3 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.4 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.5 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.6 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.7 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.8 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.9 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 1 เท่า</item>
+    </string-array>
+    <string-array name="animator_duration_scale_values">
+        <item>0</item>
+        <item>.1</item>
+        <item>.2</item>
+        <item>.3</item>
+        <item>.4</item>
+        <item>.5</item>
+        <item>.6</item>
+        <item>.7</item>
+        <item>.8</item>
+        <item>.9</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>ปิดภาพเคลื่อนไหว</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.1 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.2 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.3 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.4 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.5 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.6 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.7 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.8 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.9 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 1 เท่า</item>
+    </string-array>
+    <string-array name="transition_animation_scale_values">
+        <item>0</item>
+        <item>.1</item>
+        <item>.2</item>
+        <item>.3</item>
+        <item>.4</item>
+        <item>.5</item>
+        <item>.6</item>
+        <item>.7</item>
+        <item>.8</item>
+        <item>.9</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>ปิดภาพเคลื่อนไหว</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.1 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.2 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.3 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.4 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.5 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.6 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.7 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.8 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 0.9 เท่า</item>
+        <item>ภาพเคลื่อนไหวขนาด 1 เท่า</item>
+    </string-array>
+    <string-array name="window_animation_scale_values">
+        <item>0</item>
+        <item>.1</item>
+        <item>.2</item>
+        <item>.3</item>
+        <item>.4</item>
+        <item>.5</item>
+        <item>.6</item>
+        <item>.7</item>
+        <item>.8</item>
+        <item>.9</item>
+        <item>1</item>
+    </string-array>
+</resources>

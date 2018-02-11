@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="qs_page_indicator_height">0dip</dimen>
+	<dimen name="qs_page_indicator_width">0dip</dimen>
+	<dimen name="qs_page_indicator_margin">0dip</dimen>
+	<dimen name="qs_page_indicator_layout_height">0dip</dimen>
+</resources>
+	

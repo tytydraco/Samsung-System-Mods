@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navigationbar_default_color_1">#ffffffff</color>
+    <color name="navigationbar_default_color_2">#ff000000</color>
+    <color name="navigationbar_default_color_3">#ffff0000</color>
+    <color name="navigationbar_default_color_4">#ffff6a00</color>
+    <color name="navigationbar_default_color_5">#fffff200</color>
+    <color name="navigationbar_default_color_6">#ff72ff00</color>
+    <color name="navigationbar_default_color_7">#ff006eff</color>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_navBarLayout">space[1.5],recent;home;back,menu_ime[1.5]</string>
+    <string name="config_navBarRevLayout">space[1.5],back;home;recent,menu_ime[1.5]</string>
+</resources>

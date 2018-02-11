@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="clear_cover_date_font_size">0dip</dimen>
+    <dimen name="clear_cover_date_min_height">0dip</dimen>
+	<dimen name="clear_cover_dual_date_font_size">0dip</dimen>
+    <dimen name="clear_cover_dual_date_min_height">0dip</dimen>
+	<dimen name="keyguard_single_date_view_min_height">0dip</dimen>
+    <dimen name="keyguard_single_date_view_text_size">0dip</dimen>
+	<dimen name="keyguard_dual_date_view_min_height">0dip</dimen>
+    <dimen name="keyguard_dual_date_view_text_size">0dip</dimen>
+</resources>
+	

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="keyguard_indication_text_height">0dip</dimen>
+	<dimen name="keyguard_usim_text_height">0dip</dimen>
+    <dimen name="keyguard_indication_text_font_size">0dip</dimen>
+	<dimen name="kg_status_line_font_size">0dp</dimen>
+</resources>
+	
