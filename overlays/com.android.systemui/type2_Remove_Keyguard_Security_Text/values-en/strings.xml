@@ -209,5 +209,7 @@
     <string name="kg_tablet_face_direction_timeout_instructions"></string>
     <string name="kg_none_face_direction_deviceadmin_instructions"></string>
     <string name="kg_none_facefingerprint_direction_itpolicy_instructions"></string>
+	<string name="kg_pin_sub_instructions"></string>
+    <string name="kg_pin_sub_instructions_vzw"></string>
 </resources>
 	
