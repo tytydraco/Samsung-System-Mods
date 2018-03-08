@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="common_notification_icon_bg_color">#00000000</color>
+    <color name="common_notification_icon_stroke_color">#00000000</color>
+    <color name="common_notification_icon_stroke_color_alpm">#00000000</color>
+</resources>

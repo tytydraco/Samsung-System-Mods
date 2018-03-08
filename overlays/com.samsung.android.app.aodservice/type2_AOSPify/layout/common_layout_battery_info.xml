@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:gravity="center" android:orientation="horizontal" android:background="@*android:color/black" android:layout_width="0dp" android:layout_height="0dp"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.samsung.android.uniform.widget.ClockTextView android:textSize="0dip" android:textColor="@*com.samsung.android.app.aodservice:color/common_battery_info_color" android:id="@*com.samsung.android.app.aodservice:id/common_battery_text" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginEnd="3.0dip" />
+    <com.samsung.android.uniform.widget.battery.BatteryMeterView android:id="@*com.samsung.android.app.aodservice:id/common_battery_icon" android:layout_width="0dip" android:layout_height="0dip" />
+</merge>

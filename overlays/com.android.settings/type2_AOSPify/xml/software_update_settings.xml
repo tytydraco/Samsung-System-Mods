@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <Preference
+		android:enabled="true"
+        android:key="aospify_no_updates"
+        android:title="Updates Disabled"
+        android:summary="Since AOSPify removes system files, Samsung detects that the OS is modified. Please flash an OTA via recovery mode, or factory reset to receive OTA updates." />
+</PreferenceScreen>

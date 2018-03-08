@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="top" android:id="@*android:id/global_actions_item_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@*android:dimen/tw_global_actions_item_height_new"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minWidth="@*android:dimen/preference_icon_minWidth">
+        <FrameLayout android:id="@*android:id/global_actions_item_image_layout" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_marginBottom="0.0dip" android:foreground="@*android:drawable/global_actions_icon_bg">
+            <ImageView android:layout_gravity="center" android:id="@*android:id/icon" android:layout_width="@*android:dimen/tw_global_actions_item_width" android:layout_height="@*android:dimen/tw_global_actions_item_height" android:minWidth="56.0dip" />
+            <ImageView android:layout_gravity="center" android:id="@*android:id/icon_confirm" android:visibility="gone" android:layout_width="@*android:dimen/tw_global_actions_item_width" android:layout_height="@*android:dimen/tw_global_actions_item_height" android:minWidth="56.0dip" />
+            <ImageView android:layout_gravity="center" android:id="@*android:id/icon_safemode" android:visibility="gone" android:layout_width="@*android:dimen/tw_global_actions_item_width" android:layout_height="@*android:dimen/tw_global_actions_item_height" android:minWidth="56.0dip" />
+        </FrameLayout>
+        <TextView android:ellipsize="marquee" android:layout_gravity="center" android:id="@*android:id/message" android:fadingEdge="horizontal" android:layout_width="0dp" android:layout_height="0dp" android:singleLine="true" android:importantForAccessibility="no" />
+        <TextView android:ellipsize="marquee" android:gravity="center" android:id="@*android:id/status" android:fadingEdge="horizontal" android:layout_width="0dp" android:layout_height="0dp" android:maxLines="1" android:singleLine="true" android:layout_below="@*android:id/message" android:importantForAccessibility="no" android:layout_alignStart="@*android:id/message" />
+    </LinearLayout>
+</LinearLayout>
